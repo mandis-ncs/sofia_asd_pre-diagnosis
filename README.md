@@ -1,7 +1,7 @@
 # sofia_asd_pre-diagnosis
 This is the repository destinated for SOFIA logbook etc
 
-## 31/07 a 04/08
+### 31/07 a 04/08
   Indagação e pesquisa sobre temáticas
   Conversa com professor (Ramon)
 
