@@ -45,7 +45,8 @@ This is the repository destinated for SOFIA logbook etc
   Confecção de vídeo de apresentação
   Adição de prevalência de crianças com TEA no Vale do Ribeira e ODS no AC
 
-- 23/09 a 24/09
+- 25/09 a 29/09
   Implementação de um projeto de simulação no Tinkercad para representar o sistema IoT
   - Interação com botões para seleção de formas e cores
   - Utilização do monitor serial para representar a interface do usuário
+  Entrega do Mind Map da Interface na disciplina de UX
