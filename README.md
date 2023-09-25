@@ -49,4 +49,3 @@ This is the repository destinated for SOFIA logbook etc
   Implementação de um projeto de simulação no Tinkercad para representar o sistema IoT
   - Interação com botões para seleção de formas e cores
   - Utilização do monitor serial para representar a interface do usuário
-  Entrega do Mind Map da Interface na disciplina de UX
