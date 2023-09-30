@@ -52,4 +52,4 @@ This is the repository destinated for SOFIA logbook etc
   - Utilização do monitor serial para representar a interface do usuário
   
   Ínicio da escrita do Estado da Arte e da Metodologia <br>
-  Entrevista como profissionais do CAPS de Miracatu <br>
+  Entrevista com profissionais do CAPS de Miracatu <br>
