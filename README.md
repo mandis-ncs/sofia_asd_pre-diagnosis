@@ -52,6 +52,7 @@ This is the repository destinated for SOFIA logbook etc
   - Utilização do monitor serial para representar a interface do usuário
   
   Ínicio da escrita do Estado da Arte e da Metodologia <br>
+  Entrevista com profissional da saúde da UBS de Sete Barras <br>
   Entrevista com profissionais do CAPS de Miracatu <br>
 
 - 02/10 a 06/10 <br>
