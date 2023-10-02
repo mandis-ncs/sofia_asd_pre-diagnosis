@@ -53,3 +53,7 @@ This is the repository destinated for SOFIA logbook etc
   
   Ínicio da escrita do Estado da Arte e da Metodologia <br>
   Entrevista com profissionais do CAPS de Miracatu <br>
+
+- 02/10 a 06/10 <br>
+  Entrevista com Psicologa Educacional do Departamento Municipal de Educação de Miracatu <br>
+  
