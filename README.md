@@ -54,7 +54,16 @@ This is the repository destinated for SOFIA logbook etc
   Ínicio da escrita do Estado da Arte e da Metodologia <br>
   Entrevista com profissional da saúde da UBS de Sete Barras <br>
   Entrevista com profissionais do CAPS de Miracatu <br>
+  
 
 - 02/10 a 06/10 <br>
+  Entrega do Infográfico do sistema IoT <br>
   Entrevista com Psicologa Educacional do Departamento Municipal de Educação de Miracatu <br>
-  
+  Entrevista com familiares da APAE de Sete Barras <br>
+  Entrevista com familiares de Registro <br>
+  Entrevista com Psiquiatra UBS Miracatu <br>
+  Entrega da primeira parte do Artigo Científico <br>
+
+- 09/10 a 13/10 <br>
+  Entrevista com familiares na APAE de Miracatu <br>
+  Entrevista com profissional da saúde de Registro <br>
