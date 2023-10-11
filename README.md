@@ -61,7 +61,7 @@ This is the repository destinated for SOFIA logbook etc
   Entrevista com Psicologa Educacional do Departamento Municipal de Educação de Miracatu <br>
   Entrevista com familiares da APAE de Sete Barras <br>
   Entrevista com familiares de Registro <br>
-  Entrevista com Psiquiatra UBS Miracatu <br>
+  Entrevista com profissional da saúde UBS de Miracatu <br>
   Entrega da primeira parte do Artigo Científico <br>
 
 - 09/10 a 13/10 <br>
