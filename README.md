@@ -70,5 +70,5 @@ This is the repository destinated for SOFIA logbook etc
   Tabulação dos dados obtidos na pesquisa de campo <br>
 
 - 23/10 a 27/10 <br>
-  Confecção do SiteMap <br>
-  Prototipação do aplicativo Mobile <br>
+  Criação do design 3D do aparelho IoT <br>
+  Confecção do SiteMap do aplicativo Mobile <br>
