@@ -67,3 +67,8 @@ This is the repository destinated for SOFIA logbook etc
 - 09/10 a 13/10 <br>
   Entrevista com familiares na APAE de Miracatu <br>
   Entrevista com profissional da saúde de Registro <br>
+  Tabulação dos dados obtidos na pesquisa de campo <br>
+
+- 23/10 a 27/10 <br>
+  Confecção do SiteMap <br>
+  Prototipação do aplicativo Mobile <br>
