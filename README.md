@@ -88,4 +88,5 @@ This is the repository destinated for SOFIA logbook etc
   Desenvolvimento da API para o sistema mobile<br>
   Escrita dos Resultados obtidos no Artigo Científico<br>
   Montagem dos slides para apresentação <br>
+  Montagem e impressão do Banner <br>
 
