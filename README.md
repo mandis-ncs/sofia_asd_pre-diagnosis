@@ -73,7 +73,7 @@ This is the repository destinated for SOFIA logbook etc
   Criação do design 3D do aparelho IoT <br>
   Confecção do SiteMap do aplicativo Mobile <br>
 
-- 30/10 a 03/10 <br>
+- 30/10 a 03/11 <br>
   Realização da modelagem UML do projeto
    - Diagrama de Casos de Uso (DCU)
    - Diagrama de Classes (DC)
@@ -84,7 +84,7 @@ This is the repository destinated for SOFIA logbook etc
   Desenvolvimento das interfaces do mobile em kotlin com Jetpack Compose <br>
   Realização do Pitch <br>
 
-- 06/10 a 10/10 <br>
+- 06/11 a 10/11 <br>
   Desenvolvimento da API para o sistema mobile<br>
   Escrita dos Resultados obtidos no Artigo Científico<br>
   Montagem dos slides para apresentação <br>
