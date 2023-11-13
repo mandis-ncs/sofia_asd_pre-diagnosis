@@ -80,8 +80,8 @@ This is the repository destinated for SOFIA logbook etc
    - Diagrama de Objetos (DO)
      
   Desenvolvimento do Diagrama de Entidade-Relacionamento (DER)<br>
-  Desenvolvimento das interfaces do mobile em kotlin com Jetpack Compose <br>
   Criação do Wireframe e do Workflow do sistema mobile <br>
+  Desenvolvimento das interfaces do mobile em kotlin com Jetpack Compose <br>
   Realização do Pitch <br>
 
 - 06/10 a 10/10 <br>
